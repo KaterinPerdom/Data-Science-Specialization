@@ -8,4 +8,4 @@
 
 ## General info
 
-This repository contains my notes and codes made for the Data Science Spealization Johns Hopkins University Coursera 
+This repository contains my notes :nerd_face: and codes made for the Data Science Spealization Johns Hopkins University Coursera :dancer:
