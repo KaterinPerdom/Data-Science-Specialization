@@ -1,4 +1,4 @@
-# Data-Science-Specialization
+# :notebook: Data-Science-Specialization
 
 ## Table of contents
 
